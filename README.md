@@ -21,8 +21,8 @@ This project aims to develop a simple Address Book Application using PyQt5. It a
 
 ## Screenshots
 
-![Screenshot 1](https://i.hizliresim.com/8oawe2y.jpg)
-![Screenshot 2](screenshot-2.png)
+![Screenshot 1](https://i.hizliresim.com/cwq93kv.jpg)
+![Screenshot 2](https://i.hizliresim.com/1x3k2uu.jpg)
 
 ## License
 
