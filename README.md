@@ -1,5 +1,6 @@
 # Address Book Application
-
+[![Boyut](https://img.shields.io/github/repo-size/keyiflerolsun/BTKSorgu?logo=git&logoColor=white&label=Boyut)](#)
+[![Görüntülenme](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/keyiflerolsun/BTKSorgu&title=Görüntülenme)]
 ![AdressBook](https://i.hizliresim.com/8oawe2y.jpg)
 
 This project aims to develop a simple Address Book Application using PyQt5. It allows users to add and delete contacts by providing their name, surname, email, and phone number.
