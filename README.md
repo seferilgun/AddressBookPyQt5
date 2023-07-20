@@ -1,6 +1,6 @@
 # Address Book Application
 
-![File Upload Platform](https://i.hizliresim.com/8oawe2y.jpg)
+![AdressBook](https://i.hizliresim.com/8oawe2y.jpg)
 
 This project aims to develop a simple Address Book Application using PyQt5. It allows users to add and delete contacts by providing their name, surname, email, and phone number.
 
